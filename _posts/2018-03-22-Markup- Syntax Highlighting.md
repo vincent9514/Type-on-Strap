@@ -4,8 +4,8 @@ title: Destiny II Recommender Systems
 tags: [Gaming, Markdown]
 ---
 
-**Student Group**: Northwestern University Master of Science in Analytics (MSiA)<br/>     
-**Team Members**: Emma Li, Grace Cui, Rishabh Joshi, Vincent Wang, Varun Gupta<br/>    
+*   **Student Group**: Northwestern University Master of Science in Analytics (MSiA)    
+*   **Team Members**: Emma Li, Grace Cui, Rishabh Joshi, Vincent Wang, Varun Gupta    
 
 ### 1. Problem Statement
 
@@ -46,22 +46,22 @@ The NU student group will perform analysis of data using appropriate analytical 
 
 ### 7. Timeline
 
-* Winter Quarter (Jan 10, 2018 – March 24, 2018) 
-Review and confirm project scope and problems
-⋅⋅* EDA and identify the data sources for analysis
-●	Data cleansing and integration
-●	Feature selection and engineering
-●	Provide initial observations
-●	(Perform clustering on players)
-●	Label players based on the clustering results/three dimensions 
+**Winter Quarter** (Jan 10, 2018 – March 24, 2018) 
+*   Review and confirm project scope and problems
+*   EDA and identify the data sources for analysis
+*	Data cleansing and integration
+*	Feature selection and engineering
+*	Provide initial observations
+*	(Perform clustering on players)
+*	Label players based on the clustering results/three dimensions 
 
 
-* Spring Quarter (April 3, 2018 – June 16, 2018) 
-●	Aggregate the players’ labels into team level
-●	Cluster labeled teams
-●	Build and evaluate recommender systems 
-●	Reddit feedback analysis 
-●	Paper drafting
+**Spring Quarter** (April 3, 2018 – June 16, 2018) 
+*   Aggregate the players’ labels into team level
+*	Cluster labeled teams
+*	Build and evaluate recommender systems 
+*	Reddit feedback analysis 
+*	Paper drafting
 
 
 
