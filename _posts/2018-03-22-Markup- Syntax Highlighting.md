@@ -4,8 +4,8 @@ title: Destiny II Recommender Systems
 tags: [Gaming, Markdown]
 ---
 
-**Student Group**: Northwestern University Master of Science in Analytics (MSiA);     
-**Team Members**: Emma Li, Grace Cui, Rishabh Joshi, Vincent Wang, Varun Gupta;    
+**Student Group**: Northwestern University Master of Science in Analytics (MSiA)<br/>     
+**Team Members**: Emma Li, Grace Cui, Rishabh Joshi, Vincent Wang, Varun Gupta<br/>    
 
 ## 1. Problem Statement
 
@@ -17,9 +17,9 @@ A hybrid content and knowledge based team-profile recommendation framework for p
 
 ## 3. Project Deliverables 
 
-The NU student group will be responsible for completing the following: 
-⋅⋅* Recommender Systems production code in Python
-⋅⋅* Final conference paper submitted in May 2018
+The NU student group will be responsible for completing the following:\
+⋅⋅* Recommender Systems production code in Python\
+⋅⋅* Final conference paper submitted in May 2018\
 
 ## 4. Business Benefits
 
