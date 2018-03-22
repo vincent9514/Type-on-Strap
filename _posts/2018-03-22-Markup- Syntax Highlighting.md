@@ -72,14 +72,7 @@ Match ID  | Team ID  | Standing  | Score  | Mode
 
 Match ID      | Team ID       | Standing      | Score         | Standing        
 ------------- | ------------- | ------------- | ------------- | -------------
-
-
-
-
-
-
-
-Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell 
+              |               |               |               | 
 
 
 
