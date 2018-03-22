@@ -7,25 +7,25 @@ tags: [Gaming, Markdown]
 **Student Group**: Northwestern University Master of Science in Analytics (MSiA)<br/>     
 **Team Members**: Emma Li, Grace Cui, Rishabh Joshi, Vincent Wang, Varun Gupta<br/>    
 
-## 1. Problem Statement
+### 1. Problem Statement
 
 In order to improve the levels of player engagement for Massively Multiplayer Online Games (MMOGs), the intelligent information filtering methods were created to offer players weapon recommendations. Currently, robust and accurate recommendation systems for MMOGs is still under exploration. Existing systems on individual player level are not ideal for the PVP mode settings, since consideration needs to be given to the players interacted and variated by team performance. There are opportunities to expand upon the current individual recommendation systems by including team-level performance data where players are segmented by team activities.
 
-## 2. Purpose and Objectives
+### 2. Purpose and Objectives
 
 A hybrid content and knowledge based team-profile recommendation framework for player-versus- player (PvP) is introduced for the online multiplayer shooter game Destiny 2. More accurate systems advise players on how to improve their match performance and enhance their win rate by recommending weapons or character class or performance metrics to them. 
 
-## 3. Project Deliverables 
+### 3. Project Deliverables 
 
-The NU student group will be responsible for completing the following:\
-⋅⋅* Recommender Systems production code in Python\
-⋅⋅* Final conference paper submitted in May 2018\
+The NU student group will be responsible for completing the following:<br/> 
+*   Recommender Systems production code in Python<br/> 
+*   Final conference paper submitted in May 2018<br/> 
 
-## 4. Business Benefits
+### 4. Business Benefits
 
 Accurate and actionable recommendation systems will benefit both players and game developers. For persistent online games such as Destiny 2 that are constantly updated, commercial success rests on the game’s ability to keep a community engaged for long periods of time. Having an accurate recommendation system advising players on how to improve will create more incentive to continue playing, since players know that they have a tangible goal to work towards.
 
-## 5. Tools and Methods
+### 5. Tools and Methods
 
 Clustering each players according to three different aspects of their performance in the Crucible in Destiny 2. 
 
@@ -38,13 +38,13 @@ Based on the clustering results, each player will be given a series of labels, w
 
 After labeling each player, the baseline recommendation is then to look at the team we want to give a recommendation, take each player and cluster them, building the team across the three dimensions and the win/loss ratio, and possibly other team performance metrics like total wins, average combat rating, etc. According to the clusterings, we can then find teams with the same combination of player label series but with higher win/loss ratio (or other team performance feature) from the data, and recommend against them. We could find 3-5 teams that come from different areas of the combination of clusters as the team we are recommending for, to give a few varied examples. We can at any time exclude one or two dimensions from the recommendation if needed.
 
-## 6. Scope
+### 6. Scope
 
 The NU student group will complete the items outlined in Project Deliverables. The NU student group will review and analyze PVP play data in Destiny 2 extracted through Destiny 2 API. Additional information such as PVE, player geographical, or any other data that is considered irrelevant for the analysis will not be considered.
 
 The NU student group will perform analysis of data using appropriate analytical techniques, present the findings in reports and presentations, and provide recommendations on how the players’ data is clustered and labeled in team-level. The NU student group will provide an analysis and model to facilitate future analysis that incorporates all relevant data sets. 
 
-## 7. Timeline
+### 7. Timeline
 
 * Winter Quarter (Jan 10, 2018 – March 24, 2018) 
 Review and confirm project scope and problems
