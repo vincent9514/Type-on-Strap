@@ -70,14 +70,15 @@ Match ID  | Team ID  | Standing  | Score  | Mode
 ----------| ---------| ----------| -------| -----
 	
 
-Match ID      | Team ID       | Standing
-------------- | ------------- | -------------
-Content Cell  | Content Cell  | Content Cell
-Content Cell  | Content Cell  | Content Cell
+Match ID      | Team ID       | Standing      | Score         | Standing        
+------------- | ------------- | ------------- | ------------- | -------------
+Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell 
 
 
 
 
+
+Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell
 
 Jekyll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
 
