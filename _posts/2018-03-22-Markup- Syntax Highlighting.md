@@ -63,8 +63,12 @@ The NU student group will perform analysis of data using appropriate analytical 
 *	Reddit feedback analysis 
 *	Paper drafting
 
+### 9. Appendix -- Designed Tables for Feature Engineering
+*   Table one:
 
-
+Match ID  | Team ID  | Standing  | Score  | Mode
+----------| ---------| ----------| -------| -----
+	
 
 
 
