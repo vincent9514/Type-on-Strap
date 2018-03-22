@@ -7,6 +7,9 @@ tags: [Gaming, Markdown]
 *   **Student Group**: Northwestern University Master of Science in Analytics (MSiA)    
 *   **Team Members**: Emma Li, Grace Cui, Rishabh Joshi, Vincent Wang, Varun Gupta    
 
+![Image of Digital Creativity Labs]({{ site.baseurl }}/assets/img/pexels/labs.jpg)
+![Image of Destiny II]({{ site.baseurl }}/assets/img/pexels/Destiny-2-1080P-Wallpaper.jpg)
+
 ### 1. Problem Statement
 
 In order to improve the levels of player engagement for Massively Multiplayer Online Games (MMOGs), the intelligent information filtering methods were created to offer players weapon recommendations. Currently, robust and accurate recommendation systems for MMOGs is still under exploration. Existing systems on individual player level are not ideal for the PVP mode settings, since consideration needs to be given to the players interacted and variated by team performance. There are opportunities to expand upon the current individual recommendation systems by including team-level performance data where players are segmented by team activities.
