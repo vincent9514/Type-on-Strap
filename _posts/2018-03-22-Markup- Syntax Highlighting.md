@@ -81,9 +81,22 @@ Super         | Ability*      | Light Level   | Character Class   | Character le
 ------------- | ------------- | ------------- | ----------------- | -----------------
               |               |               |                   | 
 
-Avg score per life   | Score*        | Kills         | Deaths        | Assists       | KDA           | Efficiency
--------------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-                     |               |               |               |               |               |
+Avg score per life   | Score*      | Kills       | Deaths      | Assists     | KDA        | Efficiency
+-------------------- | ----------- | ----------- | ----------- | ----------- | ---------- | -------------
+                     |             |             |             |             |            |
+                     
+*   Table three:
+
+Team ID       | Player ID            
+------------- | ------------- 
+              |               
+              
+*   Table Four:
+
+Weapon ID     | Attack        | Power              
+------------- | ------------- | ------------- 
+              |               |               
+                     
 
 
 Jekyll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
